@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Stationary.unity
+    guid: 3056b6f8aef4ec942abae62c1dc2476d
+  - enabled: 1
+    path: Assets/Scenes/Animated.unity
+    guid: b69a5e82be16ecc428fd00c469fa6e37
+  - enabled: 1
+    path: Assets/Scenes/VirtualScenario.unity
+    guid: 4aa282b7cd734ce4f98f97375ebef39a
+  - enabled: 1
+    path: Assets/Scenes/Text.unity
+    guid: 8ccfd482157219c46ac7b58f92344b89
+  - enabled: 1
+    path: Assets/Scenes/ButtonScenario.unity
+    guid: 7d413da827a6d5d44911d81e2129f574
+  - enabled: 1
+    path: Assets/Scenes/Move.unity
+    guid: 07f554cbf2f362d4fa62967e8b99bd75
+  - enabled: 1
+    path: Assets/Scenes/Picture.unity
+    guid: 4839f6a399c7ea7479a9ed51be805101
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: f01cba079707937439e2b6aa7da51d39
+  - enabled: 1
+    path: Assets/Scenes/VButton.unity
+    guid: 7fde6b73690f71a40bef7aa2bc5b552e
+  m_configObjects: {}

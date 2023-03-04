@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAQckoLsmvhWhtn5SWGzkzUPn+a82v9H+7RJVfa3UsQocPkS6pnQwdd5EJNlbx604aXrLCy9W6zB0HHmUtRCZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kral_\\Desktop\\Part1\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kral_\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\kral_\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\kral_\\.nuget\\packages\\system.drawing.common\\4.5.0-preview1-25718-03\\system.drawing.common.4.5.0-preview1-25718-03.nupkg.sha512"
+  ],
+  "logs": []
+}
